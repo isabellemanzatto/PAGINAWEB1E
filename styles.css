@@ -1,5 +1,5 @@
 body {
-    color: #004D00;
+    color:#004D00;
     background: #66FF33;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -7,14 +7,14 @@ body {
 }
 
 header {
-    border-bottom: solid 2px (#5CFB57);
+    border-bottom: solid 2px #5CFB57;
     padding: 20px;
     font-size: 32px;
-    color:#004D00 ;
+    color: #004D00;
 }
 
 .chamada {
-    background:#66FF33;
+    background: #5CFB57;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: #004D00;
+    color:#004D00;
 }
